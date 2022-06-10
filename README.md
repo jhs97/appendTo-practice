@@ -10,3 +10,5 @@ https://jhs97.github.io/next-gallery/
 
 ## 사용 라이브러리
 -제이쿼리
+
+![image](https://user-images.githubusercontent.com/105402450/172999795-2252fdbe-2a60-42d8-bce2-b0d0db843fc7.png)
